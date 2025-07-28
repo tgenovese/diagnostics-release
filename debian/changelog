@@ -1,0 +1,230 @@
+ros-jazzy-diagnostics (4.2.6-1noble) noble; urgency=high
+
+  * C++17 and cmake 3.20 everywhere (#510 <https://github.com/ros/diagnostics/issues/510>)
+  * Contributors: Christian Henkel
+
+ -- Austin Hendrix <namniart@gmail.com>  Mon, 26 May 2025 04:00:00 -0000
+
+ros-jazzy-diagnostics (4.2.4-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Mon, 12 May 2025 04:00:00 -0000
+
+ros-jazzy-diagnostics (4.2.2-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Mon, 10 Feb 2025 05:00:00 -0000
+
+ros-jazzy-diagnostics (4.2.1-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Tue, 30 Jul 2024 04:00:00 -0000
+
+ros-jazzy-diagnostics (4.0.1-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Thu, 27 Jun 2024 04:00:00 -0000
+
+ros-jazzy-diagnostics (4.0.0-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Fri, 22 Mar 2024 04:00:00 -0000
+
+ros-jazzy-diagnostics (3.1.2-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Fri, 24 Mar 2023 04:00:00 -0000
+
+ros-jazzy-diagnostics (3.1.1-1noble) noble; urgency=high
+
+  * Maintainer update
+  * Contributors: Austin, Ralph Lange
+
+ -- Austin Hendrix <namniart@gmail.com>  Thu, 16 Mar 2023 04:00:00 -0000
+
+ros-jazzy-diagnostics (3.1.0-1noble) noble; urgency=high
+
+  * Adding READMEs to the repo (#270 <https://github.com/ros/diagnostics/issues/270>)
+  * License fixes (#263 <https://github.com/ros/diagnostics/issues/263>)
+  * Fix/cleanup ros1 (#257 <https://github.com/ros/diagnostics/issues/257>)
+  * Contributors: Austin, Christian Henkel, Ralph Lange
+
+ -- Austin Hendrix <namniart@gmail.com>  Thu, 26 Jan 2023 05:00:00 -0000
+
+ros-jazzy-diagnostics (1.9.3-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Wed, 02 May 2018 04:00:00 -0000
+
+ros-jazzy-diagnostics (1.9.2-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Sat, 15 Jul 2017 04:00:00 -0000
+
+ros-jazzy-diagnostics (1.9.1-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Sat, 15 Jul 2017 04:00:00 -0000
+
+ros-jazzy-diagnostics (1.9.0-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Tue, 25 Apr 2017 04:00:00 -0000
+
+ros-jazzy-diagnostics (1.8.10-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Tue, 14 Jun 2016 04:00:00 -0000
+
+ros-jazzy-diagnostics (1.8.9-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Wed, 02 Mar 2016 05:00:00 -0000
+
+ros-jazzy-diagnostics (1.8.8-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Thu, 06 Aug 2015 04:00:00 -0000
+
+ros-jazzy-diagnostics (1.8.7-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Fri, 09 Jan 2015 05:00:00 -0000
+
+ros-jazzy-diagnostics (1.8.6-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Wed, 10 Dec 2014 05:00:00 -0000
+
+ros-jazzy-diagnostics (1.8.5-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Tue, 29 Jul 2014 04:00:00 -0000
+
+ros-jazzy-diagnostics (1.8.4-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Fri, 25 Jul 2014 00:51:00 -0000
+
+ros-jazzy-diagnostics (1.8.3-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Wed, 23 Apr 2014 04:00:00 -0000
+
+ros-jazzy-diagnostics (1.8.2-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Tue, 08 Apr 2014 04:00:00 -0000
+
+ros-jazzy-diagnostics (1.8.1-1noble) noble; urgency=high
+
+  * Add myself as maintainer
+  * Contributors: Austin Hendrix
+
+ -- Austin Hendrix <namniart@gmail.com>  Mon, 07 Apr 2014 04:00:00 -0000
+
+ros-jazzy-diagnostics (1.8.0-1noble) noble; urgency=high
+
+  * Updating metapackages to reflect REP-0127
+  * Contributors: William Woodall
+
+ -- Austin Hendrix <namniart@gmail.com>  Wed, 03 Apr 2013 04:00:00 -0000
+
+ros-jazzy-diagnostics (1.7.11-1noble) noble; urgency=high
+
+  * Restore diagnostics meta package description
+    For the wiki etc.
+  * Updating metapackages to reflect REP-0127
+  * Contributors: Felix Kolbe, William Woodall
+
+ -- Austin Hendrix <namniart@gmail.com>  Fri, 25 Jul 2014 00:24:00 -0000
+
+ros-jazzy-diagnostics (1.7.10-1noble) noble; urgency=high
+
+  * Changed package.xml version number before releasing
+  * Contributors: Brice Rebsamen
+
+ -- Austin Hendrix <namniart@gmail.com>  Fri, 22 Feb 2013 05:00:00 -0000
+
+ros-jazzy-diagnostics (1.7.9-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Fri, 14 Dec 2012 05:00:00 -0000
+
+ros-jazzy-diagnostics (1.7.8-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Thu, 06 Dec 2012 05:00:00 -0000
+
+ros-jazzy-diagnostics (1.7.7-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Sat, 10 Nov 2012 05:00:00 -0000
+
+ros-jazzy-diagnostics (1.7.6-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Thu, 08 Nov 2012 04:32:00 -0000
+
+ros-jazzy-diagnostics (1.7.5-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Thu, 08 Nov 2012 02:53:00 -0000
+
+ros-jazzy-diagnostics (1.7.4-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Thu, 08 Nov 2012 01:18:00 -0000
+
+ros-jazzy-diagnostics (1.7.3-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Sun, 04 Nov 2012 04:00:00 -0000
+
+ros-jazzy-diagnostics (1.7.2-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Wed, 31 Oct 2012 02:31:00 -0000
+
+ros-jazzy-diagnostics (1.7.1-1noble) noble; urgency=high
+
+  * fix a few things after the first release
+  * add the meta-package
+  * Contributors: Vincent Rabaud
+
+ -- Austin Hendrix <namniart@gmail.com>  Tue, 30 Oct 2012 19:30:00 -0000
+
+ros-jazzy-diagnostics (1.7.0-1noble) noble; urgency=high
+
+
+
+ -- Austin Hendrix <namniart@gmail.com>  Mon, 29 Oct 2012 04:00:00 -0000
+
+
