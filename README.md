@@ -1,3 +1,32 @@
+## diagnostics (jazzy) - 4.2.6-2
+
+The packages in the `diagnostics` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --override-release-repository-push-url git@github.com:tgenovese/diagnostics-release.git diagnostics` on `Mon, 28 Jul 2025 14:57:09 -0000`
+
+These packages were released:
+- `diagnostic_aggregator`
+- `diagnostic_common_diagnostics`
+- `diagnostic_remote_logging`
+- `diagnostic_updater`
+- `diagnostics`
+- `self_test`
+
+Version of package(s) in repository `diagnostics`:
+
+- upstream repository: https://github.com/ros/diagnostics.git
+- release repository: https://github.com/tgenovese/diagnostics-release.git
+- rosdistro version: `4.2.6-1`
+- old version: `4.2.6-1`
+- new version: `4.2.6-2`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## diagnostics (jazzy) - 4.2.6-1
 
 The packages in the `diagnostics` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --override-release-repository-push-url git@github.com:tgenovese/diagnostics-release.git diagnostics` on `Mon, 28 Jul 2025 14:55:22 -0000`
