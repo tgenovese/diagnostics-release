@@ -2,40 +2,34 @@
 Changelog for package diagnostic_updater
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-4.4.6 (2025-05-26)
+4.2.6 (2025-05-26)
 ------------------
 * C++17 and cmake 3.20 everywhere (`#510 <https://github.com/ros/diagnostics/issues/510>`_)
 * Contributors: Christian Henkel
 
-4.4.5 (2025-05-26)
+4.2.4 (2025-05-12)
 ------------------
-* Use target_link_libraries instead of ament_target_dependencies (`#507 <https://github.com/ros/diagnostics/issues/507>`_)
-* Contributors: Christoph Fröhlich
 
-4.4.4 (2025-05-12)
+4.2.2 (2025-02-10)
 ------------------
-* Kilted dep fix (`#474 <https://github.com/ros/diagnostics/issues/474>`_)
-* Contributors: David V. Lu, Christian Henkel
+* Add Windows support (`#426 <https://github.com/ros/diagnostics/issues/426>`_) (`#430 <https://github.com/ros/diagnostics/issues/430>`_)
+  Co-authored-by: Silvio Traversaro <silvio@traversaro.it>
+* Skipping flaky tests (`#413 <https://github.com/ros/diagnostics/issues/413>`_) (`#416 <https://github.com/ros/diagnostics/issues/416>`_)
+  * skipping flaky ntp test
+* Contributors: Christian Henkel
 
-4.4.2 (2025-02-10)
+4.2.1 (2024-07-30)
 ------------------
-* Add Windows support (`#426 <https://github.com/ros/diagnostics/issues/426>`_)
-* Skipping flaky tests (`#413 <https://github.com/ros/diagnostics/issues/413>`_)
-* Contributors: Christian Henkel, Silvio Traversaro
+* Fix correctly exporting the library (`#388 <https://github.com/ros/diagnostics/issues/388>`_)
+* Contributors: Ramon Wijnands
 
-4.3.1 (2024-07-30)
+4.0.1 (2024-06-27)
 ------------------
-* Fix correctly exporting the library (`#388 <https://github.com/ros/diagnostics/issues/388>`_) (`#393 <https://github.com/ros/diagnostics/issues/393>`_)
-* Minimize header includes by moving impl to .cpp files (`#331 <https://github.com/ros/diagnostics/issues/331>`_) and Fix usage of rclcpp::ok with a non-default context (`#352 <https://github.com/ros/diagnostics/issues/352>`_)  (`#390 <https://github.com/ros/diagnostics/issues/390>`_)
-* Contributors: Christian Henkel, Ramon Wijnands, Hervé Audren
-
-3.2.1 (2024-06-27)
-------------------
-* change(diagnosed-publisher): allow specifying node clock (`#340 <https://github.com/ros/diagnostics/issues/340>`_)
+* change(diagnosed-publisher): allow specifying node clock (`#340 <https://github.com/ros/diagnostics/issues/340>`_) (`#372 <https://github.com/ros/diagnostics/issues/372>`_)
 * Fix usage of rclcpp::ok with a non-default context (`#352 <https://github.com/ros/diagnostics/issues/352>`_)
-* Contributors: Hervé Audren, Rein Appeldoorn
+* Contributors: Christian Henkel, Hervé Audren
 
-3.2.0 (2024-03-22)
+4.0.0 (2024-03-22)
 ------------------
 * including depdency (`#322 <https://github.com/ros/diagnostics/issues/322>`_)
 * Debugging instability introduced by `#317 <https://github.com/ros/diagnostics/issues/317>`_  (`#323 <https://github.com/ros/diagnostics/issues/323>`_)
